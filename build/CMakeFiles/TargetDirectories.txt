@@ -1,0 +1,3 @@
+/home/nunes/projeto-jogo-da-velha/build/CMakeFiles/OldWomanGame.dir
+/home/nunes/projeto-jogo-da-velha/build/CMakeFiles/edit_cache.dir
+/home/nunes/projeto-jogo-da-velha/build/CMakeFiles/rebuild_cache.dir
